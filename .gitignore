@@ -206,6 +206,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-*.csv
+Baton_Rouge_Traffic_Crash_Incidents_20250920.csv
+all_chi2_test_results.csv
 codealike.json
 .DS_Store
