@@ -1,0 +1,254 @@
+Variable 1,Variable 2,Chi2 Statistic,P-Value,Significant (p < 0.05),Warning
+district,zone,211494.43892533472,0.0,True,Warning: (14.4%) of cells have expected frequency < 5. Result may be unreliable.
+district,crash_occurred_on,15181.212077888471,0.0,True,Warning: (12.5%) of cells have expected frequency < 5. Result may be unreliable.
+district,type_of_roadway,3665.50923284589,0.0,True,Warning: (13.3%) of cells have expected frequency < 5. Result may be unreliable.
+district,road_surface,251.09082872320138,4.876551078227132e-13,True,Warning: (62.1%) of cells have expected frequency < 5. Result may be unreliable.
+district,weather_condition,292.4844904022984,9.001153970697727e-24,True,Warning: (54.6%) of cells have expected frequency < 5. Result may be unreliable.
+district,lighting_condition,574.693964405121,3.3908940536078893e-77,True,Warning: (17.7%) of cells have expected frequency < 5. Result may be unreliable.
+district,injury,243.85227156462395,5.4065930217909874e-46,True,Warning: (8.3%) of cells have expected frequency < 5. Result may be unreliable.
+district,fatality,29.68744090510169,0.0017738182058224569,True,Warning: (20.8%) of cells have expected frequency < 5. Result may be unreliable.
+district,hit_and_run,168.48115652851962,2.422777338224632e-30,True,Warning: (8.3%) of cells have expected frequency < 5. Result may be unreliable.
+district,pedestrian_involved,50.06554464820001,6.0918333518343e-07,True,Warning: (12.5%) of cells have expected frequency < 5. Result may be unreliable.
+district,train_involved,39.376924174796756,4.57016618239014e-05,True,Warning: (54.2%) of cells have expected frequency < 5. Result may be unreliable.
+district,intersection,234.80418873239142,4.2113960741735567e-44,True,Warning: (8.3%) of cells have expected frequency < 5. Result may be unreliable.
+district,vehicle_alignment,505.441159880378,6.280273938552273e-86,True,Warning: (18.8%) of cells have expected frequency < 5. Result may be unreliable.
+district,relation_to_roadway,897.340027657001,1.099953818687017e-123,True,Warning: (22.7%) of cells have expected frequency < 5. Result may be unreliable.
+district,manner_of_collision,1152.6750470314312,2.1239315204495576e-191,True,Warning: (12.5%) of cells have expected frequency < 5. Result may be unreliable.
+district,primary_factor,629.9674322538775,8.180705548309406e-70,True,Warning: (43.1%) of cells have expected frequency < 5. Result may be unreliable.
+district,secondary_factor,1027.0796135540286,2.005009041593512e-138,True,Warning: (39.7%) of cells have expected frequency < 5. Result may be unreliable.
+district,day_of_week,192.7120532752458,2.4499209346684072e-14,True,Warning: (8.3%) of cells have expected frequency < 5. Result may be unreliable.
+district,crash_month,307.63906658761226,3.1887708516324833e-18,True,Warning: (8.3%) of cells have expected frequency < 5. Result may be unreliable.
+district,vehicle_bin,283.08967114741733,1.5903839490122176e-41,True,Warning: (10.4%) of cells have expected frequency < 5. Result may be unreliable.
+district,lat_bin,44710.4909189555,0.0,True,Warning: (8.3%) of cells have expected frequency < 5. Result may be unreliable.
+district,lon_bin,69581.08797234349,0.0,True,Warning: (8.3%) of cells have expected frequency < 5. Result may be unreliable.
+zone,crash_occurred_on,36435.99457307142,0.0,True,Warning: (10.6%) of cells have expected frequency < 5. Result may be unreliable.
+zone,type_of_roadway,8240.292607330257,0.0,True,Warning: (14.1%) of cells have expected frequency < 5. Result may be unreliable.
+zone,road_surface,680.2735902880823,7.269609080315792e-17,True,Warning: (71.8%) of cells have expected frequency < 5. Result may be unreliable.
+zone,weather_condition,583.8893451273958,1.1517329416499817e-17,True,Warning: (55.3%) of cells have expected frequency < 5. Result may be unreliable.
+zone,lighting_condition,1367.4414798421162,1.688584150720803e-142,True,Warning: (18.0%) of cells have expected frequency < 5. Result may be unreliable.
+zone,injury,512.0278396432261,3.3099763800348746e-83,True,
+zone,fatality,45.42618165706993,0.25622206151863963,False,Warning: (47.6%) of cells have expected frequency < 5. Result may be unreliable.
+zone,hit_and_run,207.56364643030543,1.7220291568546245e-24,True,
+zone,pedestrian_involved,161.52978248836504,1.5516608133628191e-16,True,
+zone,train_involved,152.4385258291621,4.950485974938065e-15,True,Warning: (50.0%) of cells have expected frequency < 5. Result may be unreliable.
+zone,intersection,1185.1138938025244,1.8479638395203782e-222,True,
+zone,vehicle_alignment,1107.381700812539,1.9710521146508327e-159,True,Warning: (14.6%) of cells have expected frequency < 5. Result may be unreliable.
+zone,relation_to_roadway,2346.8346543132893,4.978915944012734e-272,True,Warning: (40.1%) of cells have expected frequency < 5. Result may be unreliable.
+zone,manner_of_collision,3894.3619542705,0.0,True,Warning: (7.9%) of cells have expected frequency < 5. Result may be unreliable.
+zone,primary_factor,1444.7566768089255,3.0534901493415905e-107,True,Warning: (66.7%) of cells have expected frequency < 5. Result may be unreliable.
+zone,secondary_factor,2183.6165368712127,6.740211713676409e-215,True,Warning: (62.5%) of cells have expected frequency < 5. Result may be unreliable.
+zone,day_of_week,641.790895555647,2.228017985088691e-38,True,
+zone,crash_month,764.1216964301809,8.131619912526849e-20,True,
+zone,vehicle_bin,803.7213929746982,1.0997430645501936e-101,True,Warning: (1.2%) of cells have expected frequency < 5. Result may be unreliable.
+zone,lat_bin,85126.99415487165,0.0,True,
+zone,lon_bin,87211.08393740111,0.0,True,
+crash_occurred_on,type_of_roadway,14302.642734956757,0.0,True,Warning: (3.3%) of cells have expected frequency < 5. Result may be unreliable.
+crash_occurred_on,road_surface,543.1308146910185,5.259435446091762e-84,True,Warning: (54.5%) of cells have expected frequency < 5. Result may be unreliable.
+crash_occurred_on,weather_condition,597.3389463180906,1.8258632020716615e-100,True,Warning: (44.4%) of cells have expected frequency < 5. Result may be unreliable.
+crash_occurred_on,lighting_condition,1393.4541842615422,2.53247506729531e-270,True,Warning: (8.3%) of cells have expected frequency < 5. Result may be unreliable.
+crash_occurred_on,injury,462.0869340890383,1.2128805231465903e-97,True,
+crash_occurred_on,fatality,23.63554049937443,0.0002550688399119989,True,Warning: (8.3%) of cells have expected frequency < 5. Result may be unreliable.
+crash_occurred_on,hit_and_run,542.8195890560538,4.543849853872585e-115,True,
+crash_occurred_on,pedestrian_involved,72.1671296240766,3.625436655393132e-14,True,Warning: (8.3%) of cells have expected frequency < 5. Result may be unreliable.
+crash_occurred_on,train_involved,14.71790891358874,0.01163818632606833,True,Warning: (41.7%) of cells have expected frequency < 5. Result may be unreliable.
+crash_occurred_on,intersection,2668.329858760562,0.0,True,
+crash_occurred_on,vehicle_alignment,2121.2574447461097,0.0,True,Warning: (8.3%) of cells have expected frequency < 5. Result may be unreliable.
+crash_occurred_on,relation_to_roadway,19646.502392565595,0.0,True,Warning: (9.1%) of cells have expected frequency < 5. Result may be unreliable.
+crash_occurred_on,manner_of_collision,10918.17112451727,0.0,True,Warning: (6.2%) of cells have expected frequency < 5. Result may be unreliable.
+crash_occurred_on,primary_factor,709.0892033562052,2.0130543132536425e-114,True,Warning: (30.6%) of cells have expected frequency < 5. Result may be unreliable.
+crash_occurred_on,secondary_factor,468.8730197178827,1.0635632408868132e-64,True,Warning: (25.6%) of cells have expected frequency < 5. Result may be unreliable.
+crash_occurred_on,day_of_week,105.62645986741757,2.3522955168551226e-10,True,
+crash_occurred_on,crash_month,120.31420834310367,8.891357689470393e-07,True,
+crash_occurred_on,vehicle_bin,765.4763109830349,2.0094572392417908e-153,True,Warning: (4.2%) of cells have expected frequency < 5. Result may be unreliable.
+crash_occurred_on,lat_bin,6905.397548638346,0.0,True,
+crash_occurred_on,lon_bin,4421.128240950899,0.0,True,
+type_of_roadway,road_surface,1274.5168630421838,2.832730547598025e-241,True,Warning: (50.9%) of cells have expected frequency < 5. Result may be unreliable.
+type_of_roadway,weather_condition,1553.287050591551,8.980233073203481e-307,True,Warning: (37.8%) of cells have expected frequency < 5. Result may be unreliable.
+type_of_roadway,lighting_condition,745.4212569069988,6.0639921827603814e-139,True,Warning: (12.5%) of cells have expected frequency < 5. Result may be unreliable.
+type_of_roadway,injury,213.29986727374646,5.182461597143509e-45,True,
+type_of_roadway,fatality,45.313007005433306,3.422599673989954e-09,True,Warning: (10.0%) of cells have expected frequency < 5. Result may be unreliable.
+type_of_roadway,hit_and_run,117.08558361178129,2.238812676132077e-24,True,
+type_of_roadway,pedestrian_involved,40.266910491374524,3.811728800923759e-08,True,Warning: (10.0%) of cells have expected frequency < 5. Result may be unreliable.
+type_of_roadway,train_involved,7.965286317765546,0.09285810962544842,False,Warning: (30.0%) of cells have expected frequency < 5. Result may be unreliable.
+type_of_roadway,intersection,506.6505643555166,2.4412786814027915e-108,True,
+type_of_roadway,vehicle_alignment,913.7339280776333,6.452598783235372e-188,True,Warning: (15.0%) of cells have expected frequency < 5. Result may be unreliable.
+type_of_roadway,relation_to_roadway,3235.707643802016,0.0,True,Warning: (12.7%) of cells have expected frequency < 5. Result may be unreliable.
+type_of_roadway,manner_of_collision,3884.6649303886097,0.0,True,Warning: (7.5%) of cells have expected frequency < 5. Result may be unreliable.
+type_of_roadway,primary_factor,420.47293949764503,6.448193935701728e-63,True,Warning: (28.3%) of cells have expected frequency < 5. Result may be unreliable.
+type_of_roadway,secondary_factor,645.972255553007,1.1471337457982181e-105,True,Warning: (23.1%) of cells have expected frequency < 5. Result may be unreliable.
+type_of_roadway,day_of_week,33.69207900416428,0.0902921346190603,False,
+type_of_roadway,crash_month,66.84474681262687,0.014750446606498184,True,
+type_of_roadway,vehicle_bin,226.29984985894654,1.1698980092424455e-41,True,Warning: (5.0%) of cells have expected frequency < 5. Result may be unreliable.
+type_of_roadway,lat_bin,1678.0399257516822,0.0,True,
+type_of_roadway,lon_bin,2401.1335577594723,0.0,True,
+road_surface,weather_condition,79596.12254371317,0.0,True,Warning: (73.7%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,lighting_condition,18353.976494275605,0.0,True,Warning: (63.6%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,injury,143.43852073309793,8.310156318055865e-26,True,Warning: (31.8%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,fatality,2.860040368975521,0.9845284687670166,False,Warning: (54.5%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,hit_and_run,395.856241654862,7.170493999469655e-79,True,Warning: (31.8%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,pedestrian_involved,8.137496665424363,0.615408414438431,False,Warning: (50.0%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,train_involved,1.4307315746064244,0.9991353212913249,False,Warning: (59.1%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,intersection,46.33015673174048,1.24959821670605e-06,True,Warning: (36.4%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,vehicle_alignment,202.610853746637,1.6064844950708004e-27,True,Warning: (63.6%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,relation_to_roadway,1242.3492482541003,2.2196041292864404e-196,True,Warning: (72.7%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,manner_of_collision,719.9285585792559,1.4292440873146001e-108,True,Warning: (56.8%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,primary_factor,4455.099318350445,0.0,True,Warning: (75.0%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,secondary_factor,3891.827586295679,0.0,True,Warning: (72.7%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,day_of_week,153.23252405612052,4.2279129589795323e-10,True,Warning: (49.4%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,crash_month,1230.3395991700515,1.3103565395029276e-188,True,Warning: (54.5%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,vehicle_bin,527.5134413060152,2.7036003261990757e-92,True,Warning: (54.5%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,lat_bin,95.35137393904614,9.91980237521592e-09,True,Warning: (36.4%) of cells have expected frequency < 5. Result may be unreliable.
+road_surface,lon_bin,83.10119119258127,7.009926017808772e-07,True,Warning: (36.4%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,lighting_condition,19314.148912553806,0.0,True,Warning: (50.0%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,injury,116.9578371402528,1.4068200440372407e-21,True,Warning: (22.2%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,fatality,24.605266851188265,0.0018128395176496223,True,Warning: (33.3%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,hit_and_run,470.76726479505027,1.3089156397238333e-96,True,Warning: (22.2%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,pedestrian_involved,7.253408279063372,0.5095550640180788,False,Warning: (27.8%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,train_involved,4.890035562094785,0.7692620630044282,False,Warning: (44.4%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,intersection,48.747943566739195,7.105661200734053e-08,True,Warning: (16.7%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,vehicle_alignment,120.82786911596041,6.907787643879734e-15,True,Warning: (44.4%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,relation_to_roadway,1382.3700312391481,1.9139859022854098e-236,True,Warning: (57.6%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,manner_of_collision,774.139090466628,5.78715846824173e-127,True,Warning: (45.8%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,primary_factor,3227.9982575215727,0.0,True,Warning: (64.8%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,secondary_factor,3861.0183278266463,0.0,True,Warning: (64.1%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,day_of_week,188.65346228591062,1.4388597351157489e-18,True,Warning: (44.4%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,crash_month,1223.7648805028457,2.187749048960836e-199,True,Warning: (44.4%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,vehicle_bin,401.94444346148106,2.995910030386361e-70,True,Warning: (38.9%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,lat_bin,94.02153471127966,3.08199008217418e-10,True,Warning: (33.3%) of cells have expected frequency < 5. Result may be unreliable.
+weather_condition,lon_bin,77.78818022601438,1.3641706206817576e-07,True,Warning: (33.3%) of cells have expected frequency < 5. Result may be unreliable.
+lighting_condition,injury,315.1475299065713,3.5125132704089586e-64,True,
+lighting_condition,fatality,191.3433679543033,7.799647929620593e-38,True,Warning: (37.5%) of cells have expected frequency < 5. Result may be unreliable.
+lighting_condition,hit_and_run,880.2794430237076,8.701939745705436e-186,True,
+lighting_condition,pedestrian_involved,362.95221459846545,2.076783920962509e-74,True,Warning: (6.2%) of cells have expected frequency < 5. Result may be unreliable.
+lighting_condition,train_involved,3.872379446961943,0.7943539527247404,False,Warning: (43.8%) of cells have expected frequency < 5. Result may be unreliable.
+lighting_condition,intersection,163.68219756347398,5.382944962240109e-32,True,
+lighting_condition,vehicle_alignment,123.98046763457995,1.322910731647393e-16,True,Warning: (18.8%) of cells have expected frequency < 5. Result may be unreliable.
+lighting_condition,relation_to_roadway,3110.3797449169197,0.0,True,Warning: (37.5%) of cells have expected frequency < 5. Result may be unreliable.
+lighting_condition,manner_of_collision,2990.3868039045215,0.0,True,Warning: (12.5%) of cells have expected frequency < 5. Result may be unreliable.
+lighting_condition,primary_factor,1653.5580143126504,2.6882903609454457e-294,True,Warning: (57.3%) of cells have expected frequency < 5. Result may be unreliable.
+lighting_condition,secondary_factor,1075.0781379311034,1.0151161764303386e-171,True,Warning: (51.9%) of cells have expected frequency < 5. Result may be unreliable.
+lighting_condition,day_of_week,1544.9881759280195,7.820521957350383e-297,True,
+lighting_condition,crash_month,1436.8897632682251,1.563699477426254e-249,True,
+lighting_condition,vehicle_bin,1818.729785372093,0.0,True,Warning: (6.2%) of cells have expected frequency < 5. Result may be unreliable.
+lighting_condition,lat_bin,269.3080963783658,5.311942124475578e-45,True,
+lighting_condition,lon_bin,305.2028702880457,2.7747584633693656e-52,True,
+injury,fatality,417.38802123145877,9.036047574125362e-93,True,
+injury,hit_and_run,669.0323309973016,1.6219781330647714e-147,True,
+injury,pedestrian_involved,1429.7105195344934,0.0,True,
+injury,train_involved,7.807879838812374,0.005201889914842807,True,
+injury,intersection,520.2129518113165,3.8037452469286285e-115,True,
+injury,vehicle_alignment,39.09214806863564,1.6593740401503483e-08,True,
+injury,relation_to_roadway,837.6466076193308,1.657372087553316e-173,True,
+injury,manner_of_collision,1714.8782402098411,0.0,True,
+injury,primary_factor,386.2224136576533,5.132524159638364e-76,True,Warning: (8.3%) of cells have expected frequency < 5. Result may be unreliable.
+injury,secondary_factor,256.3863467233259,6.363455214565167e-48,True,Warning: (3.8%) of cells have expected frequency < 5. Result may be unreliable.
+injury,day_of_week,53.59872126094807,8.887646811673028e-10,True,
+injury,crash_month,17.02888208234085,0.10702415805797592,False,
+injury,vehicle_bin,1321.5834028096037,3.0522913539131864e-286,True,
+injury,lat_bin,438.98106319560605,7.954670904518215e-95,True,
+injury,lon_bin,25.476179009125627,1.2276257615119863e-05,True,
+fatality,hit_and_run,15.60734429698733,7.795123263098616e-05,True,
+fatality,pedestrian_involved,1341.1540529736606,1.2881760307293226e-293,True,Warning: (25.0%) of cells have expected frequency < 5. Result may be unreliable.
+fatality,train_involved,0.0,1.0,False,Warning: (25.0%) of cells have expected frequency < 5. Result may be unreliable.
+fatality,intersection,1.3230679376544292,0.2500421931830566,False,
+fatality,vehicle_alignment,18.496224837373106,0.00034745255587411583,True,Warning: (37.5%) of cells have expected frequency < 5. Result may be unreliable.
+fatality,relation_to_roadway,54.49856641261998,3.917574411561521e-08,True,Warning: (36.4%) of cells have expected frequency < 5. Result may be unreliable.
+fatality,manner_of_collision,258.84320773752586,3.628751477909828e-52,True,Warning: (25.0%) of cells have expected frequency < 5. Result may be unreliable.
+fatality,primary_factor,1299.471293130228,5.8192366718131264e-272,True,Warning: (41.7%) of cells have expected frequency < 5. Result may be unreliable.
+fatality,secondary_factor,974.7622002520756,4.985502198473112e-201,True,Warning: (34.6%) of cells have expected frequency < 5. Result may be unreliable.
+fatality,day_of_week,47.440917885085106,1.5280189156183703e-08,True,
+fatality,crash_month,17.86834878964253,0.08468608802221368,False,
+fatality,vehicle_bin,331.4684634468762,1.5346283061786617e-71,True,Warning: (12.5%) of cells have expected frequency < 5. Result may be unreliable.
+fatality,lat_bin,13.91941668562892,0.0030169178790925197,True,
+fatality,lon_bin,6.863691716413582,0.07637164507811164,False,
+hit_and_run,pedestrian_involved,126.14749771592521,2.8545825691233653e-29,True,
+hit_and_run,train_involved,6.06913275941009,0.013756448837071528,True,
+hit_and_run,intersection,176.42214110862648,2.9285631971214687e-40,True,
+hit_and_run,vehicle_alignment,71.64809302020723,1.8936341225365874e-15,True,
+hit_and_run,relation_to_roadway,1226.4127844381883,2.890018346734282e-257,True,
+hit_and_run,manner_of_collision,937.7534729517936,3.371382261010475e-198,True,
+hit_and_run,primary_factor,261.28138599030166,1.207999392543235e-49,True,Warning: (8.3%) of cells have expected frequency < 5. Result may be unreliable.
+hit_and_run,secondary_factor,253.21148158467795,2.9259445996377225e-47,True,Warning: (3.8%) of cells have expected frequency < 5. Result may be unreliable.
+hit_and_run,day_of_week,78.07790689462712,8.908492095982724e-15,True,
+hit_and_run,crash_month,9.540094262407777,0.5721671821111218,False,
+hit_and_run,vehicle_bin,1204.3922536760504,8.170135762204692e-261,True,
+hit_and_run,lat_bin,99.07990849222548,2.450884603390945e-21,True,
+hit_and_run,lon_bin,32.82674903949283,3.503389015644189e-07,True,
+pedestrian_involved,train_involved,0.038440420369648814,0.8445614139732186,False,Warning: (25.0%) of cells have expected frequency < 5. Result may be unreliable.
+pedestrian_involved,intersection,0.47277605468786893,0.49171281816401213,False,
+pedestrian_involved,vehicle_alignment,1.4910404400328365,0.6843397306785297,False,Warning: (12.5%) of cells have expected frequency < 5. Result may be unreliable.
+pedestrian_involved,relation_to_roadway,75.64788925168637,3.55830473442301e-12,True,Warning: (27.3%) of cells have expected frequency < 5. Result may be unreliable.
+pedestrian_involved,manner_of_collision,3531.670917685158,0.0,True,Warning: (6.2%) of cells have expected frequency < 5. Result may be unreliable.
+pedestrian_involved,primary_factor,7564.999089993931,0.0,True,Warning: (37.5%) of cells have expected frequency < 5. Result may be unreliable.
+pedestrian_involved,secondary_factor,4772.409026267604,0.0,True,Warning: (34.6%) of cells have expected frequency < 5. Result may be unreliable.
+pedestrian_involved,day_of_week,10.778714117517534,0.09546107708257587,False,
+pedestrian_involved,crash_month,5.23472266752979,0.9192681178748912,False,
+pedestrian_involved,vehicle_bin,6019.701887825765,0.0,True,
+pedestrian_involved,lat_bin,39.1569433161479,1.607743254693283e-08,True,
+pedestrian_involved,lon_bin,10.021801714835508,0.018381719080225917,True,
+train_involved,intersection,0.9749278336138875,0.32345425875425377,False,
+train_involved,vehicle_alignment,1.199025710530248,0.7532379959992506,False,Warning: (37.5%) of cells have expected frequency < 5. Result may be unreliable.
+train_involved,relation_to_roadway,3.532737420505668,0.9659750881602722,False,Warning: (45.5%) of cells have expected frequency < 5. Result may be unreliable.
+train_involved,manner_of_collision,128.17329845329442,1.5131034031999204e-24,True,Warning: (37.5%) of cells have expected frequency < 5. Result may be unreliable.
+train_involved,primary_factor,15.970141538152808,0.1422429901385151,False,Warning: (41.7%) of cells have expected frequency < 5. Result may be unreliable.
+train_involved,secondary_factor,1.265091404761335,0.9999481047316833,False,Warning: (42.3%) of cells have expected frequency < 5. Result may be unreliable.
+train_involved,day_of_week,5.942391883832407,0.42967427333083974,False,Warning: (50.0%) of cells have expected frequency < 5. Result may be unreliable.
+train_involved,crash_month,3.552608104646941,0.9812291052221064,False,Warning: (50.0%) of cells have expected frequency < 5. Result may be unreliable.
+train_involved,vehicle_bin,210.17052671199517,2.6750247490056982e-45,True,Warning: (37.5%) of cells have expected frequency < 5. Result may be unreliable.
+train_involved,lat_bin,46.54715965170877,4.3385633756786775e-10,True,
+train_involved,lon_bin,13.573560680699424,0.0035470066653073094,True,
+intersection,vehicle_alignment,83.22425340572784,6.241305162601707e-18,True,
+intersection,relation_to_roadway,2420.025159528134,0.0,True,
+intersection,manner_of_collision,6436.820519018431,0.0,True,
+intersection,primary_factor,90.7412814923084,1.1930673283504926e-14,True,Warning: (4.2%) of cells have expected frequency < 5. Result may be unreliable.
+intersection,secondary_factor,62.0973423229957,9.334483782499351e-09,True,Warning: (3.8%) of cells have expected frequency < 5. Result may be unreliable.
+intersection,day_of_week,27.22686785386823,0.00013129985623736923,True,
+intersection,crash_month,29.942712880227212,0.0016177483197591695,True,
+intersection,vehicle_bin,242.66187316635208,2.5285023920740535e-52,True,
+intersection,lat_bin,368.7242235317332,1.3152737725328458e-79,True,
+intersection,lon_bin,50.26483802274807,7.016123463281004e-11,True,
+vehicle_alignment,relation_to_roadway,1839.2408501068555,0.0,True,Warning: (34.1%) of cells have expected frequency < 5. Result may be unreliable.
+vehicle_alignment,manner_of_collision,1282.8104979570467,1.1511507141043943e-258,True,Warning: (9.4%) of cells have expected frequency < 5. Result may be unreliable.
+vehicle_alignment,primary_factor,294.59569936819787,9.314099830571735e-44,True,Warning: (56.2%) of cells have expected frequency < 5. Result may be unreliable.
+vehicle_alignment,secondary_factor,261.6506050174688,4.741096744374173e-36,True,Warning: (51.9%) of cells have expected frequency < 5. Result may be unreliable.
+vehicle_alignment,day_of_week,52.723406348577846,2.8950361115174644e-05,True,
+vehicle_alignment,crash_month,55.328793845557826,0.008773759243360612,True,
+vehicle_alignment,vehicle_bin,931.6397964750621,9.405369850296245e-195,True,Warning: (6.2%) of cells have expected frequency < 5. Result may be unreliable.
+vehicle_alignment,lat_bin,69.57888614700096,1.8414404576464315e-11,True,
+vehicle_alignment,lon_bin,200.15773787111056,3.0701125696583097e-38,True,
+relation_to_roadway,manner_of_collision,25573.081321077563,0.0,True,Warning: (22.7%) of cells have expected frequency < 5. Result may be unreliable.
+relation_to_roadway,primary_factor,3146.0717327508373,0.0,True,Warning: (62.1%) of cells have expected frequency < 5. Result may be unreliable.
+relation_to_roadway,secondary_factor,1446.8438406871228,2.6352775043886295e-226,True,Warning: (54.5%) of cells have expected frequency < 5. Result may be unreliable.
+relation_to_roadway,day_of_week,694.1628165905516,1.0670859694025322e-108,True,
+relation_to_roadway,crash_month,189.29437461036395,3.9459536561097005e-06,True,
+relation_to_roadway,vehicle_bin,17452.550031073348,0.0,True,Warning: (13.6%) of cells have expected frequency < 5. Result may be unreliable.
+relation_to_roadway,lat_bin,333.463281630892,6.237987490699524e-53,True,
+relation_to_roadway,lon_bin,672.0785839565242,3.2171050646722043e-122,True,
+manner_of_collision,primary_factor,3277.3717726575896,0.0,True,Warning: (42.7%) of cells have expected frequency < 5. Result may be unreliable.
+manner_of_collision,secondary_factor,1517.5681673528911,1.1188380357942063e-261,True,Warning: (35.6%) of cells have expected frequency < 5. Result may be unreliable.
+manner_of_collision,day_of_week,601.2018601781898,4.5097070918173726e-100,True,
+manner_of_collision,crash_month,407.23941111864826,2.0438330834760653e-46,True,
+manner_of_collision,vehicle_bin,24112.478024095817,0.0,True,Warning: (3.1%) of cells have expected frequency < 5. Result may be unreliable.
+manner_of_collision,lat_bin,870.3894398955892,1.047261237643051e-170,True,
+manner_of_collision,lon_bin,387.7204946870579,3.206804065836856e-69,True,
+primary_factor,secondary_factor,23791.846503961948,0.0,True,Warning: (63.5%) of cells have expected frequency < 5. Result may be unreliable.
+primary_factor,day_of_week,160.51249032103337,7.650073634437156e-10,True,Warning: (22.6%) of cells have expected frequency < 5. Result may be unreliable.
+primary_factor,crash_month,218.3998860573337,1.4171273324421953e-07,True,Warning: (25.0%) of cells have expected frequency < 5. Result may be unreliable.
+primary_factor,vehicle_bin,4301.5556516336865,0.0,True,Warning: (33.3%) of cells have expected frequency < 5. Result may be unreliable.
+primary_factor,lat_bin,406.0306050437441,8.268104918193284e-66,True,Warning: (16.7%) of cells have expected frequency < 5. Result may be unreliable.
+primary_factor,lon_bin,227.77115226149056,5.795339146778012e-31,True,Warning: (16.7%) of cells have expected frequency < 5. Result may be unreliable.
+secondary_factor,day_of_week,345.56215045526005,2.2792217703647226e-37,True,Warning: (17.6%) of cells have expected frequency < 5. Result may be unreliable.
+secondary_factor,crash_month,274.02183990389926,5.544665182066372e-12,True,Warning: (29.5%) of cells have expected frequency < 5. Result may be unreliable.
+secondary_factor,vehicle_bin,1988.295055761806,0.0,True,Warning: (32.7%) of cells have expected frequency < 5. Result may be unreliable.
+secondary_factor,lat_bin,225.90174724432637,2.3129796325828013e-29,True,Warning: (7.7%) of cells have expected frequency < 5. Result may be unreliable.
+secondary_factor,lon_bin,745.893184560505,1.6537932802646753e-133,True,Warning: (7.7%) of cells have expected frequency < 5. Result may be unreliable.
+day_of_week,crash_month,193.4216034790306,1.9292693744236388e-14,True,
+day_of_week,vehicle_bin,381.6572122741778,6.057776336037068e-70,True,
+day_of_week,lat_bin,70.57098088100543,3.617068140221041e-08,True,
+day_of_week,lon_bin,137.98388278462653,1.565570264834856e-20,True,
+crash_month,vehicle_bin,58.45717575613557,0.004089075782144364,True,
+crash_month,lat_bin,57.9915224269454,0.004592532611332556,True,
+crash_month,lon_bin,133.3529753746617,5.148000985690634e-14,True,
+vehicle_bin,lat_bin,221.35913634123483,1.0836567895987425e-42,True,
+vehicle_bin,lon_bin,108.06682899493302,3.6372486730385406e-19,True,
+lat_bin,lon_bin,4989.898133978713,0.0,True,
